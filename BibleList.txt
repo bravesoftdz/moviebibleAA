@@ -1,0 +1,26 @@
+ENG_Bible_WEB.txt
+ENG_Bible_NKJV.txt
+ENG_Bible_KJV.txt
+ENG_Bible_ESV.txt
+ENG_Bible_NET.txt
+MKD_Bible_konstantinov.txt
+MKD_Bible_revidirano.txt
+# ENG_Bible_AKJV.txt
+# ENG_Bible_ASV1901.txt
+# ENG_Bible_AuKJVPCamEd.txt
+# ENG_Bible_BBE.txt
+# ENG_Bible_Bishops1568.txt
+# ENG_Bible_Coverdale.txt
+# ENG_Bible_CPDV.txt
+# ENG_Bible_Darby.txt
+# ENG_Bible_DRC.txt
+# ENG_Bible_EBR.txt
+# ENG_Bible_ERV.txt
+# ENG_Bible_LEB.txt
+# ENG_Bible_NLT.txt
+# ENG_Bible_SLT.txt
+# ENG_Bible_Tyndale1526.txt
+# ENG_Bible_UKJV.txt
+# ENG_Bible_VW.txt
+# ENG_Bible_Webster.txt
+# ENG_Bible_YLT.txt

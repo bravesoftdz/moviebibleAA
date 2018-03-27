@@ -1,0 +1,20 @@
+Do not change this file manually!
+normal
+67
+ENG_Bible_WEB.txt
+MKD_Bible_konstantinov.txt
+English.txt
+17
+5
+paralel
+0
+12
+16711935
+0
+633
+573
+F
+F
+0
+mbmanyF
+ 
